@@ -5,3 +5,6 @@
 	path = public
 	url = https://github.com/jcouto/jcouto.github.io.git
 	branch = master
+[submodule "themes/aether"]
+	path = themes/aether
+	url = https://github.com/josephhutch/aether.git
