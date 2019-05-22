@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jcouto.github.io</title>
+    <link>https://jcouto.github.io/</link>
+    <description>Recent content on jcouto.github.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 May 2019 23:01:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://jcouto.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Neuropixels binary file viewer and tools</title>
+      <link>https://jcouto.github.io/pnc2019/</link>
+      <pubDate>Tue, 21 May 2019 23:01:46 +0200</pubDate>
+      
+      <guid>https://jcouto.github.io/pnc2019/</guid>
+      <description>Binary file viewer and memory mapping inteface for spikeGLX files. Example notebooks for unpacking sync channels and parse sorting results. This is part of the workshop material for the neuropixels workshop for the ParisNeuro Course 2019.</description>
+    </item>
+    
+    <item>
+      <title>Widefield analysis and Allen CCF matching</title>
+      <link>https://jcouto.github.io/wfield/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://jcouto.github.io/wfield/</guid>
+      <description>https://bitbucket.org/jpcouto/wfield/
+Tools to manually register widefield data and two-photon planes to the Allen Common Coordinate Framework.</description>
+    </item>
+    
+    <item>
+      <title>Behavior training and logging</title>
+      <link>https://jcouto.github.io/treadmillrig/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://jcouto.github.io/treadmillrig/</guid>
+      <description>https://bitbucket.org/jpcouto/lineartreadmillrig
+Arduino based controller to interface with experimental hardware for experiment control and logging.
+Allows controlling multiple setups with the same computer and recording pulses from cameras or other devices.
+Includes software for training on a linear treadmill and an interface written in bokeh.</description>
+    </item>
+    
+    <item>
+      <title>Visual stimulation and experiment control</title>
+      <link>https://jcouto.github.io/pyvstim/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://jcouto.github.io/pyvstim/</guid>
+      <description>https://bitbucket.org/jpcouto/pyvstim
+Visual stimulation and experiment control with an arduino. Can interface with labcams, scanbox and spikeGLX to set names and initiate experiments accross computers.
+Configuration through a json configuration file, parameter definition for visual stimuli using text files. Actuators can be connected to airpuff valves or eye shutters and synchronized to the visual stimuli.
+Interfaces with https://bitbucket.org/jpcouto/lineartreadmillrig for signal acquisition and hardware control.</description>
+    </item>
+    
+    <item>
+      <title>Multi-camera high speed video acquisition</title>
+      <link>https://jcouto.github.io/labcams/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://jcouto.github.io/labcams/</guid>
+      <description>https://bitbucket.org/jpcouto/labcams
+Camera interface and graphical user interface written in python, can record from multiple cameras and do real-time eye tracking. Can also perform histogram equalization and background subtraction. At the moment supports AVT, QImaging, PCO and generic cameras through the openCV interface.
+Uses https://bitbucket.org/jpcouto/mptracker for tracking the eye.</description>
+    </item>
+    
+    <item>
+      <title>Pupil tracking</title>
+      <link>https://jcouto.github.io/mptracker/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://jcouto.github.io/mptracker/</guid>
+      <description>https://bitbucket.org/jpcouto/mptracker
+Pupil tracking written in python openCV bindings that can handle 5 min data(at 30Hz) in 10 seconds on a laptop using multiprocessing.
+Can be used in for real-time tracking in conjunction with labcams.</description>
+    </item>
+    
+    <item>
+      <title>Dynamic clamp and closed-loop electrophysiology</title>
+      <link>https://jcouto.github.io/dynclamp/</link>
+      <pubDate>Mon, 13 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://jcouto.github.io/dynclamp/</guid>
+      <description>http://danielelinaro.github.io/dynclamp/
+Software for hybrid closed loop electrophysiology experiments and real-time conductance simulation. Builds on a real-time linux kernel and a command line interface for reproducibility and automation of experimental workflows. In colaboration with Daniele Linaro.</description>
+    </item>
+    
+  </channel>
+</rss>
