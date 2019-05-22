@@ -1,0 +1,6 @@
+baseURL = "https://jcouto.github.io/"
+languageCode = "en-us"
+title = "jcouto.github.io"
+theme = "paper"
+publishDir = "public"
+
