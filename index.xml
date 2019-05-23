@@ -71,6 +71,14 @@ https://bitbucket.org/jpcouto/mptracker </description>
       <guid>https://jcouto.github.io/dynclamp/</guid>
       <description> Software for hybrid closed loop electrophysiology experiments and real-time conductance simulation. Builds on a real-time linux kernel and a command line interface for reproducibility and automation of experimental workflows. In colaboration with Daniele Linaro.
 http://danielelinaro.github.io/dynclamp/ </description>
+    </item><item>
+      <title>NEURON models</title>
+      <link>https://jcouto.github.io/neuron/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0200</pubDate>
+      
+      <guid>https://jcouto.github.io/neuron/</guid>
+      <description> NEURON models and scripts for in silico experiments. Includes examples of extracellular and phase response curve simulations. Includes the McIntyre and Grill 2002, Traub et al. 2003, Khaliq and Raman 2002 and the De Schutter and Bower 1994 models.
+https://github.com/jcouto/neuron </description>
     </item>
   </channel>
 </rss>
